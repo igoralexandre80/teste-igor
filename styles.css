@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiaser !important;
+}
+
+header#pre-header {
+width: 640px;
+height: 70px;    
+background: #f7f7f7;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+header#pre-header p {
+    font-size: 11px;
+    align-items: center;
+}
+
+#logo {
+width: 640px;
+height: 135px;
+background: white;
+background-repeat: no-repeat;
+display: flex;
+align-items: center;
+justify-content: flex-end;
+}
+
+#banner {
+    width: 640px;
+    height: 220px;
+    background-image: url('./images/banner.jpg');
+}
+
+section#texto-marcas {
+    width: 640px;
+    height: 120px;
+    margin-left: 40px;
+    font-size: 16px;
+}
+
+#texto-marcas2 {
+    color:#ff7f27;
+    font-size: 21px;
+    text-align: left;
+}
+
+#sony {
+    width: 640px;
+    height: 128px;
+    background-image: url('./images/sony.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#centauro {
+    width: 640px;
+    height: 128px;
+    margin-top: 6px;
+    background-image: url('./images/centauro.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#mistral {
+    width: 640px;
+    height: 128px;
+    margin-top: 6px;
+    background-image: url('./images/mistral.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#link {
+width: 640px;
+height: 110px;  
+margin-top: 24px;  
+background: #ff7f27;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+#link p {
+    margin-left: -22px;
+    font-size: 22px;
+    
+
+}
+
+#texto-chamada {
+    width: 640px;
+    height: 70px;
+    font-size: 21px;
+    margin-left: 40px;
+    color: #ff7f27;
+}
+
+#tres-passos {
+    width: 640px;
+    height: 340px;
+    margin-left: 40px;
+    font-size: 21px;
+    }
+
+    
+    #conteudo01 {
+    display: table;
+    }
+    
+    #imagem01 {
+    display: table-cell;
+    float: left;
+    }
+    
+    #texto01 {
+    display: table-cell;
+    margin-left: 20px;
+    margin-top: -20px;
+    float: left;
+    width: 400px;
+    }
+
+    
+    #conteudo02 {
+        display: table;
+        }
+        
+        #imagem02 {
+        display: table-cell;
+        float: left;
+        margin-top: 20px;
+        }
+        
+        #texto02 {
+        display: table-cell;
+        margin-left: 20px;
+        margin-top: -20px;
+        float: left;
+        width: 440px;
+
+        }
+    
+      
+     #conteudo03 {
+            display: table;
+            }
+            
+            #imagem03 {
+            display: table-cell;
+            float: left;
+            }
+            
+            #texto03 {
+            display: table-cell;
+            margin-left: 20px;
+            float: left;
+            width: 480px;
+            }
+            
+    #cadeado {
+                width: 640px;
+                height: 90px;
+                background: #f7f7f7;
+                margin-top: -40px;
+                margin-left: 40px;
+                font-size: 21px;
+                }
+            
+                
+                #conteudo-cadeado {
+                display: table;
+                }
+                
+                #imagem-cadeado {
+                display: table-cell;
+                float: left;
+                margin-top: 10px;
+                margin-left: 40px;
+                }
+                
+                #texto-cadeado {
+                display: table-cell;
+                margin-top: -10px;
+                margin-left: 20px;
+                float: left;
+                
+                }
+            
+            #acesse {
+                font-size: 13px;
+            }
+
+            #canais {
+                color: #ff7f27;
+                font-size: 12px;
+            }
+
+            #texto-canais {
+                font-size: 12px;
+            }
+
+
+#msg {
+    font-size: 12px;
+}
+
